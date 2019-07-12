@@ -1,7 +1,1 @@
-*
-
-!.gitignore
-!.gitattributes
-!.gitconfig
-!src
-!src/**
+.*/
